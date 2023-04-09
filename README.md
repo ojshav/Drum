@@ -3,7 +3,7 @@ This is a simple website created using HTML, CSS, and JavaScript that allows use
 
 
 ## Usage
-To use the website, open the index.html file in your web browser. The website interface will display a set of drum buttons corresponding to the letters A, S, D, F, G, H, and J on your keyboard.
+To use the website, open the index.html file in your web browser. The website interface will display a set of drum buttons corresponding to the letters w, A, S, D, J, K, and L on your keyboard.
 
 To play a drum sound, simply press the corresponding letter on your keyboard. Each drum button has a unique sound that you can play and experiment with.
 
